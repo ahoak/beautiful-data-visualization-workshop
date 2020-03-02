@@ -29,13 +29,11 @@ We will go through the design process as followed:
 Think abstractly on how we deliver this information.
 Check out a few of these sources for project inspiration:
 
-<ul>
-    <li>[Jan Willem Tulep](https://www.pinterest.com/janwillemtulp/) Pintrest</li>
-    <li>[Giorgia Lupi](https://www.pinterest.com/giorgialupi/) Pintrest</li>  
-    <li>[Nadieh Bremer](https://www.instagram.com/nadiehbremer/) Instagram</li>  
-    <li>[Jill Hubley](https://jillhubley.com/)</li>  
-    <li>[Shirley Wu](https://sxywu.com/)</li>  
-</ul>
+[Jan Willem Tulep](https://www.pinterest.com/janwillemtulp/) Pintrest <br />
+[Giorgia Lupi](https://www.pinterest.com/giorgialupi/) Pintrest <br />
+[Nadieh Bremer](https://www.instagram.com/nadiehbremer/) Instagram <br />  
+[Jill Hubley](https://jillhubley.com/) <br />
+[Shirley Wu](https://sxywu.com/) <br />
 While research, think about how can you apply some of these elements in your work?
 
 ### 3. Sketch
@@ -51,10 +49,9 @@ There is no wrong way to think about this. Use the research in step 2. to apply 
 
 Here are some examples of this data visualized:
 
-<ul>
-    <li>[Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age](https://pudding.cool/2017/03/film-dialogue/) By Hannah Anderson, Matt Daniels </li>
-    <li>[Hollywood's Gender Divide and its Effecto on Films](https://www.pinterest.com/giorgialupi/) BY lyle Friedman, Matt Daniels, Ilia Blinderman</li>   
-</ul>
+[Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age](https://pudding.cool/2017/03/film-dialogue/) By Hannah Anderson, Matt Daniels
+<br />
+[Hollywood's Gender Divide and its Effecto on Films](https://www.pinterest.com/giorgialupi/) BY lyle Friedman, Matt Daniels, Ilia Blinderman
 
 ## DATA
 
