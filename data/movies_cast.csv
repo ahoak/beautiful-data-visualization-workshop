@@ -1,0 +1,130 @@
+cast_id,character,word_count,actor_gender,age_when_filming,actor_name
+7834,annie schmidt,165,f,62,Caroline Davis
+7834,captain dickson,610,m,45,Ice Cube
+7834,deputy chief ha,308,m,44,Nick Offerman
+7834,dr. murphy,236,m,44,Marc Evan Jackson
+7834,jenko,2145,m,34,Channing Tatum
+7834,maya,928,f,28,Amber Stevens
+7834,mercedes,309,f,NULL,Jillian Bell
+7834,mr. walters,117,m,44,Rob Riggle
+7834,professor,189,f,NULL,John Bostic
+7834,schmidt,4130,m,31,Jonah Hill
+7834,zook,809,m,28,wyatt Russell
+3816,alice kingsleig,2040,f,21,Mia Wasikowska
+3816,dormouse,165,f,73,Barbara Windsor
+3816,lady ascot,164,f,60,Geraldine James
+3816,mad hatter,661,m,47,Johnny Depp
+3816,march hare,194,m,52,Paul Whitehouse
+3816,red queen,762,f,44,Helena Bonham Carter
+3816,stayne - knave ,420,m,46,Crispin Glover
+3816,tweedledee,306,m,36,Matt Lucas
+3816,white queen,384,f,28,Anne Hathaway
+3816,white rabbit,302,m,41,Michael Sheen
+1671,azteca,570,f,29,Jennifer Lopez
+1671,barbatus,2340,m,52,Danny Glover
+1671,foreman,116,m,37,Grant Shaud
+1671,general mandibl,148,m,68,Gene Hackman
+1671,handmaiden #1,120,f,NULL,NULL
+1671,male wasp,202,m,NULL,NULL
+1671,princess bala,2116,f,40,Sharon Stone
+1671,queen,560,f,67,Anne Bancroft
+1671,weaver,1008,m,52,Sylvester Stallone
+1671,z,5366,m,63,Woody Allen
+1989,alex munday,1752,f,32,Lucy Liu
+1989,dylan sanders,2780,f,25,Drew Barrymore
+1989,eric knox,1502,m,32,Sam Rockwell
+1989,jason gibbons,800,m,33,Matt LeBlanc
+1989,john bosley,982,m,50,Bill Murray
+1989,natalie cook,2432,f,28,Cameron Diaz
+1989,pete komisky,324,m,29,Luke Wilson
+2296,anchor,136,m,35,Eric Bana
+2296,bloat,502,m,43,Brad Garrett
+2296,bruce,558,m,69,Barry Humphries
+2296,chum,252,m,58,Bruce Spence
+2296,coral,256,f,43,Elizabeth Perkins
+2296,crush,544,m,38,Andrew Stanton
+2296,darla,104,f,NULL,LuLu Ebeling
+2296,deb,240,f,43,Vicki Lewis
+2296,dentist,644,m,63,Bill Hunter
+2296,dory,3540,f,45,Ellen DeGeneres
+2296,gill,1552,m,48,Willem Dafoe
+2296,gurgle,386,m,63,Austin Pendleton
+2296,marlin,6660,m,56,Albert Brooks
+2296,mr. ray,586,m,42,Bob Peterson
+2296,nemo,1300,m,9,Alexander Gould
+2296,nigel,852,m,52,Geoffrey Rush
+2296,peach,564,f,44,Allison Janney
+2296,squirt,184,m,9,Nicholas Bird
+2296,tad,102,m,12,Jordan Ranft
+989,aragog,177,m,67,Julian Glover
+989,argus filch,155,m,60,David Bradley
+989,colin creevey,107,m,13,Hugh Mitchell
+989,dobby the house,550,m, ,Toby Jones
+989,draco malfoy,710,m,15,Tom Felton
+989,ginny weasley,124,f,11,Bonnie Wright
+989,harry potter,3724,m,13,"	Daniel Radcliffe"
+989,hermione grange,1647,f,12,Emma Watson
+989,lucius malfoy,765,m,39,Jason Isaacs
+989,madam pomfrey,133,f,60,Gemma Jones
+989,moaning myrtle,252,f,37,Shirley Henderson
+989,mr. borgin     ,108,m,47,Edward Tudor-Pole
+989,mrs weasley,284,f,52,Julie Walters
+989,oliver wood,181,m,19,Sean Biggerstaff
+989,professor albus,1108,m,72,Richard Harris
+989,professor gilde,1507,m,42,Kenneth Branagh
+989,ron weasley,2649,m,14,Rupert Grint
+989,rubeus hagrid,722,m,52,Robbie Coltrane
+989,severus snape,277,m,56,Alan Rickman
+989,Tom Marvolo Rid,1299,m,24,Christian Coulson
+989,uncle vernon du,406,m,55,Richard Griffiths
+5424,anger,677,m,67,Lewis Black
+5424,bing bong,990,m,59,Richard Kind
+5424,dad,325,m,56,Kyle MacLachlan
+5424,disgust,615,f,36,Mindy Kaling
+5424,fear,704,m,37,Bill Hader
+5424,joy,2805,f,44,Amy Poehler
+5424,mom,477,f,50,Diane Lane
+5424,sadness,939,f,64,Phyllis Smith
+4853,anton ego,644,m,75,Peter O'Toole
+4853,colette,1054,f,43,Janeane Garofalo
+4853,django,406,m,69,Brian Dennehy
+4853,emile,397,m,NULL,Peter Sohn
+4853,gusteau,381,m,47,Brad Garrett
+4853,horst,159,m,37,Will Arnett
+4853,lawyer (talon l,234,m,NULL,Teddy Newton
+4853,linguini,1643,m,35,Lou Romano
+4853,mustafa,159,m,60,John Ratzenberger
+4853,narrator,187,m,NULL,St‚phane Roux
+4853,remy,1813,m,38,Patton Oswalt
+4853,skinner,1220,m,76,Ian Holm
+8649,donkey,442,m,43,Eddie Murphy
+8649,Fairy Godmother,395,f,46,Jennifer Saunders
+8649,king,612,m,65,John Cleese
+8649,prince charming,401,m,45,Rupert Everett
+8649,princess fiona,284,f,32,Cameron Diaz
+8649,puss in boots,181,m,44,Antonio Banderas
+8649,queen,211,f,69,Julie Andrews
+8649,shrek,938,m,41,Mike Myers
+6679,dr. otto octavi,2459,m,51,Alfred Molina
+6679,girl,161,f,NULL,Ella Rogers
+6679,harry osborn,672,m,26,James Franco
+6679,J. Jonah Jameso,764,m,49,J.K. Simmons
+6679,Mary Jane Watso,1335,f,22,Kirsten Dunst
+6679,may parker,614,f,77,Rosemary Harris
+6679,mr. aziz,254,m,38,Aasif Mandvi
+6679,Norman Osborn,146,m,51,Willem Dafoe
+6679,peter parker,2193,m,29,Tobey Maguire
+8807,alfred,954,m,79,Michael Caine
+8807,bane,1268,m,35,Tom Hardy
+8807,blake,1435,m,31,Joseph Gordon-Levitt
+8807,bruce wayne,1978,m,38,Christian Bale
+8807,commissioner go,1085,m,54,Gary Oldman
+8807,daggett,311,m,43,Ben Mendelsohn
+8807,dr. jonathan cr,103,m,36,Cillian Murphy
+8807,foley,370,m,53,Matthew Modine
+8807,fox,707,m,75,Morgan Freeman
+8807,mayor,215,m,45,Nestor Carbonell
+8807,miranda,508,f,37,Marion Cotillard
+8807,selina,1029,f,30,Anne Hathaway
+8807,stryver,150,m,38,Burn Gorman
+8807,wayne's lawyer,106,m,57,Tomas Arana
